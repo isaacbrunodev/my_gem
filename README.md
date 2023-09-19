@@ -1,5 +1,5 @@
 # my_gem
-
+A gem é referente aos exercícios das missões do Curso Ruby do canal One Bit Code
 
 ## Instalação
 
