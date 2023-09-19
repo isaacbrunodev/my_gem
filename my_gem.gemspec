@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
     spec.homepage      = "https://github.com/isaacbrunodev/my_gem.git"
     spec.license       = "MIT"
   
-    spec.files         = Dir["lib/**/*"]
-    spec.require_paths = ["lib"]
+    spec.files         = Dir["**/*.rb"]
+    spec.require_paths = []
   end
   
